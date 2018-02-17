@@ -1,2 +1,9 @@
-# Search---Yelp-Dataset-Challenge
-We plan to create a model to recommend restaurant businesses to users using Item-Based Collaborative Filtering. We are using stratified sampling and k-fold cross-validation to obtain train and test sets as well as train parameters. We also plan to develop a Language Model with Dirichlet Smoothing using Lucene Indexing and NLTK based on user's reviews to search restaurants that match the user's interest. We also aim to generate a short description of a particular restaurant by analyzing users' reviews to help the restaurants in better advertising their stronger points. We plan to construct a Language Model by using data provided by Yelp, a third-party corpus or scrapping restaurant articles from Wikipedia and implement POS Tagging techniques and LSTM based approaches for text generation.
+# Final Project
+Jivitesh Poojary -- Prathmesh jangam -- Shreyas Rewagad -- Vighnesh Nayak
+## Task 1: Recommend Businesses to User
+  * Content based recommendation using Reviews. 
+  * User-User Memory-based Collaborative filtering using sentiment analysis scores form reviews. 
+  * Item-Item Memory-based Collaborative filtering using sentiment analysis scores form reviews. 
+
+## Task 2: Generation of Business Description form User reviews 
+  * Lex-Rank based review summarization.

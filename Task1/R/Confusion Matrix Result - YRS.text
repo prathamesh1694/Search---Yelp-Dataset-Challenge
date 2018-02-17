@@ -1,0 +1,114 @@
+B2B - Cosine
+
+Confusion Matrix and Statistics
+
+          Reference
+Prediction     0     1
+         0 31451   787
+         1    32     0
+                                          
+               Accuracy : 0.9746          
+                 95% CI : (0.9728, 0.9763)
+    No Information Rate : 0.9756          
+    P-Value [Acc > NIR] : 0.8792          
+                                          
+                  Kappa : -0.0019         
+ Mcnemar's Test P-Value : <2e-16          
+                                          
+            Sensitivity : 0.9990          
+            Specificity : 0.0000          
+         Pos Pred Value : 0.9756          
+         Neg Pred Value : 0.0000          
+             Prevalence : 0.9756          
+         Detection Rate : 0.9746          
+   Detection Prevalence : 0.9990          
+      Balanced Accuracy : 0.4995          
+                                          
+       'Positive' Class : 0  
+
+#--------------------------------------------------------------------
+B2B - Pearson
+
+Confusion Matrix and Statistics
+
+          Reference
+Prediction     0     1
+         0 14870   376
+         1 16613   411
+                                         
+               Accuracy : 0.4735         
+                 95% CI : (0.4681, 0.479)
+    No Information Rate : 0.9756         
+    P-Value [Acc > NIR] : 1              
+                                         
+                  Kappa : -5e-04         
+ Mcnemar's Test P-Value : <2e-16         
+                                         
+            Sensitivity : 0.47232        
+            Specificity : 0.52224        
+         Pos Pred Value : 0.97534        
+         Neg Pred Value : 0.02414        
+             Prevalence : 0.97561        
+         Detection Rate : 0.46080        
+   Detection Prevalence : 0.47245        
+      Balanced Accuracy : 0.49728        
+                                         
+       'Positive' Class : 0 
+
+#--------------------------------------------------------------------
+U2U - Cosine
+
+Confusion Matrix and Statistics
+
+          Reference
+Prediction    0    1
+         0 7863  399
+         1  130    3
+                                          
+               Accuracy : 0.937           
+                 95% CI : (0.9316, 0.9421)
+    No Information Rate : 0.9521          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : -0.0129         
+ Mcnemar's Test P-Value : <2e-16          
+                                          
+            Sensitivity : 0.983736        
+            Specificity : 0.007463        
+         Pos Pred Value : 0.951707        
+         Neg Pred Value : 0.022556        
+             Prevalence : 0.952114        
+         Detection Rate : 0.936629        
+   Detection Prevalence : 0.984157        
+      Balanced Accuracy : 0.495599        
+                                          
+       'Positive' Class : 0 
+
+#--------------------------------------------------------------------
+U2U - Pearson
+
+Confusion Matrix and Statistics
+
+          Reference
+Prediction    0    1
+         0 4719  226
+         1 3274  176
+                                          
+               Accuracy : 0.5831          
+                 95% CI : (0.5725, 0.5937)
+    No Information Rate : 0.9521          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.0061          
+ Mcnemar's Test P-Value : <2e-16          
+                                          
+            Sensitivity : 0.59039         
+            Specificity : 0.43781         
+         Pos Pred Value : 0.95430         
+         Neg Pred Value : 0.05101         
+             Prevalence : 0.95211         
+         Detection Rate : 0.56212         
+   Detection Prevalence : 0.58904         
+      Balanced Accuracy : 0.51410         
+                                          
+       'Positive' Class : 0
